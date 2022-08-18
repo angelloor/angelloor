@@ -31,13 +31,13 @@ Desarrollador de Software en<a href="https://puyo.gob.ec/" target="_blank"><b> G
 <a href="https://www.linux.org" target="_blank"><img height="75" src="https://angelloor.dev/assets/icons/tech/_linux.svg"></a>  
 <a href="https://angular.io" target="_blank"><img height="75" src="https://angelloor.dev/assets/icons/tech/_angular.svg"></a>  
 <a href="https://es.reactjs.org" target="_blank"><img height="75" src="https://angelloor.dev/assets/icons/tech/_react.svg"></a>  
-<a href="https://www.mongodb.com/es" target="_blank"><img height="75" src="https://angelloor.dev/assets/icons/_tech/mongo.svg"></a>  
+<a href="https://www.mongodb.com/es" target="_blank"><img height="75" src="https://angelloor.dev/assets/icons/tech/_mongo.svg"></a>  
 <a href="https://nodejs.org/es" target="_blank"><img height="75" src="https://angelloor.dev/assets/icons/tech/_node.svg"></a>  
 <a href="https://www.typescriptlang.org" target="_blank"><img height="75" src="https://angelloor.dev/assets/icons/tech/_typescript.svg"></a>  
 <a href="https://www.postgresql.org" target="_blank"><img height="75" src="https://angelloor.dev/assets/icons/tech/_postgresql.svg"></a>  
 <a href="https://www.mysql.com" target="_blank"><img height="75" src="https://angelloor.dev/assets/icons/tech/_mysql.svg"></a>  
 <a href="https://git-scm.com" target="_blank"><img height="75" src="https://angelloor.dev/assets/icons/tech/_git.svg"></a>  
-<a href="https://developer.mozilla.org/es" target="_blank"><img height="75" src="https://angelloor.dev/assets/icons/_tech/js.svg"></a>  
+<a href="https://developer.mozilla.org/es" target="_blank"><img height="75" src="https://angelloor.dev/assets/icons/tech/_js.svg"></a>  
 </div>
 
 **🔱 Próximos stacks tecnologícos:**
@@ -61,4 +61,4 @@ Desarrollador de Software en<a href="https://puyo.gob.ec/" target="_blank"><b> G
 </div>  
 
 
-⭐️ De [Angel Loor](https://github.com/angelloor)
+🧩 [#SNIPPETLIFE](https://instagram.com/angelloor.dev)
