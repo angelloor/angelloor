@@ -18,36 +18,36 @@ Desarrollador de Software en<a href="https://puyo.gob.ec/" target="_blank"><b> G
 **🔱 Actualmente trabajo con:**
 
 <div style="display: flex;">
-<a href="https://angular.io" target="_blank"><img height="75" src="https://angelloor.dev/assets/icons/tech/_angular.svg"></a>  
-<a href="https://es.reactjs.org" target="_blank"><img height="75" src="https://angelloor.dev/assets/icons/tech/_react.svg"></a>  
-<a href="https://nodejs.org/es" target="_blank"><img height="75" src="https://angelloor.dev/assets/icons/tech/_node.svg"></a>  
-<a href="https://www.typescriptlang.org" target="_blank"><img height="75" src="https://angelloor.dev/assets/icons/tech/_typescript.svg"></a>  
-<a href="https://www.postgresql.org" target="_blank"><img height="75" src="https://angelloor.dev/assets/icons/tech/_postgresql.svg"></a>  
+<a href="https://angular.io" target="_blank"><img height="75" src="https://angelloor.dev/assets/icons/tech/angular.svg"></a>  
+<a href="https://es.reactjs.org" target="_blank"><img height="75" src="https://angelloor.dev/assets/icons/tech/react.svg"></a>  
+<a href="https://nodejs.org/es" target="_blank"><img height="75" src="https://angelloor.dev/assets/icons/tech/node.svg"></a>  
+<a href="https://www.typescriptlang.org" target="_blank"><img height="75" src="https://angelloor.dev/assets/icons/tech/typescript.svg"></a>  
+<a href="https://www.postgresql.org" target="_blank"><img height="75" src="https://angelloor.dev/assets/icons/tech/postgresql.svg"></a>  
 </div>
 
 **🔱 Tengo experiencia en:**
 
 <div style="display: flex;">
-<a href="https://www.linux.org" target="_blank"><img height="75" src="https://angelloor.dev/assets/icons/tech/_linux.svg"></a>  
-<a href="https://angular.io" target="_blank"><img height="75" src="https://angelloor.dev/assets/icons/tech/_angular.svg"></a>  
-<a href="https://es.reactjs.org" target="_blank"><img height="75" src="https://angelloor.dev/assets/icons/tech/_react.svg"></a>  
+<a href="https://www.linux.org" target="_blank"><img height="75" src="https://angelloor.dev/assets/icons/tech/linux.svg"></a>  
+<a href="https://angular.io" target="_blank"><img height="75" src="https://angelloor.dev/assets/icons/tech/angular.svg"></a>  
+<a href="https://es.reactjs.org" target="_blank"><img height="75" src="https://angelloor.dev/assets/icons/tech/react.svg"></a>  
 <a href="https://www.mongodb.com/es" target="_blank"><img height="75" src="https://angelloor.dev/assets/icons/tech/_mongo.svg"></a>  
-<a href="https://nodejs.org/es" target="_blank"><img height="75" src="https://angelloor.dev/assets/icons/tech/_node.svg"></a>  
-<a href="https://www.typescriptlang.org" target="_blank"><img height="75" src="https://angelloor.dev/assets/icons/tech/_typescript.svg"></a>  
-<a href="https://www.postgresql.org" target="_blank"><img height="75" src="https://angelloor.dev/assets/icons/tech/_postgresql.svg"></a>  
-<a href="https://www.mysql.com" target="_blank"><img height="75" src="https://angelloor.dev/assets/icons/tech/_mysql.svg"></a>  
-<a href="https://git-scm.com" target="_blank"><img height="75" src="https://angelloor.dev/assets/icons/tech/_git.svg"></a>  
-<a href="https://developer.mozilla.org/es" target="_blank"><img height="75" src="https://angelloor.dev/assets/icons/tech/_js.svg"></a>  
+<a href="https://nodejs.org/es" target="_blank"><img height="75" src="https://angelloor.dev/assets/icons/tech/node.svg"></a>  
+<a href="https://www.typescriptlang.org" target="_blank"><img height="75" src="https://angelloor.dev/assets/icons/tech/typescript.svg"></a>  
+<a href="https://www.postgresql.org" target="_blank"><img height="75" src="https://angelloor.dev/assets/icons/tech/postgresql.svg"></a>  
+<a href="https://www.mysql.com" target="_blank"><img height="75" src="https://angelloor.dev/assets/icons/tech/mysql.svg"></a>  
+<a href="https://git-scm.com" target="_blank"><img height="75" src="https://angelloor.dev/assets/icons/tech/git.svg"></a>  
+<a href="https://developer.mozilla.org/es" target="_blank"><img height="75" src="https://angelloor.dev/assets/icons/tech/js.svg"></a>  
 </div>
 
 **🔱 Próximos stacks tecnologícos:**
 
 <div style="display: flex;">
-<a href="https://www.python.org" target="_blank"><img height="75" src="https://angelloor.dev/assets/icons/tech/_python.svg"></a>  
+<a href="https://www.python.org" target="_blank"><img height="75" src="https://angelloor.dev/assets/icons/tech/python.svg"></a>  
 <a href="https://go.dev" target="_blank"><img height="75" src="https://angelloor.dev/assets/icons/tech/_go.svg"></a>  
-<a href="https://cloud.google.com/?hl=es" target="_blank"><img height="75" src="https://angelloor.dev/assets/icons/tech/_google_cloud.svg"></a>  
-<a href="https://www.docker.com" target="_blank"><img height="75" src="https://angelloor.dev/assets/icons/tech/_docker.svg"></a>  
-<a href="https://kubernetes.io/es" target="_blank"><img height="75" src="https://angelloor.dev/assets/icons/tech/_kubernetes.svg"></a>  
+<a href="https://cloud.google.com/?hl=es" target="_blank"><img height="75" src="https://angelloor.dev/assets/icons/tech/google_cloud.svg"></a>  
+<a href="https://www.docker.com" target="_blank"><img height="75" src="https://angelloor.dev/assets/icons/tech/docker.svg"></a>  
+<a href="https://kubernetes.io/es" target="_blank"><img height="75" src="https://angelloor.dev/assets/icons/tech/kubernetes.svg"></a>  
 </div>
 
 **📫 Sígueme en:**<br>
