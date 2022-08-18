@@ -31,7 +31,7 @@ Desarrollador de Software en<a href="https://puyo.gob.ec/" target="_blank"><b> G
 <a href="https://www.linux.org" target="_blank"><img height="75" src="https://angelloor.dev/assets/icons/tech/linux.svg"></a>  
 <a href="https://angular.io" target="_blank"><img height="75" src="https://angelloor.dev/assets/icons/tech/angular.svg"></a>  
 <a href="https://es.reactjs.org" target="_blank"><img height="75" src="https://angelloor.dev/assets/icons/tech/react.svg"></a>  
-<a href="https://www.mongodb.com/es" target="_blank"><img height="75" src="https://angelloor.dev/assets/icons/tech/_mongo.svg"></a>  
+<a href="https://www.mongodb.com/es" target="_blank"><img height="75" src="https://angelloor.dev/assets/icons/tech/mongo.svg"></a>  
 <a href="https://nodejs.org/es" target="_blank"><img height="75" src="https://angelloor.dev/assets/icons/tech/node.svg"></a>  
 <a href="https://www.typescriptlang.org" target="_blank"><img height="75" src="https://angelloor.dev/assets/icons/tech/typescript.svg"></a>  
 <a href="https://www.postgresql.org" target="_blank"><img height="75" src="https://angelloor.dev/assets/icons/tech/postgresql.svg"></a>  
@@ -44,7 +44,7 @@ Desarrollador de Software en<a href="https://puyo.gob.ec/" target="_blank"><b> G
 
 <div style="display: flex;">
 <a href="https://www.python.org" target="_blank"><img height="75" src="https://angelloor.dev/assets/icons/tech/python.svg"></a>  
-<a href="https://go.dev" target="_blank"><img height="75" src="https://angelloor.dev/assets/icons/tech/_go.svg"></a>  
+<a href="https://go.dev" target="_blank"><img height="75" src="https://angelloor.dev/assets/icons/tech/go.svg"></a>  
 <a href="https://cloud.google.com/?hl=es" target="_blank"><img height="75" src="https://angelloor.dev/assets/icons/tech/google_cloud.svg"></a>  
 <a href="https://www.docker.com" target="_blank"><img height="75" src="https://angelloor.dev/assets/icons/tech/docker.svg"></a>  
 <a href="https://kubernetes.io/es" target="_blank"><img height="75" src="https://angelloor.dev/assets/icons/tech/kubernetes.svg"></a>  
