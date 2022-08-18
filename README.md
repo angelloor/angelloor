@@ -28,16 +28,16 @@ Desarrollador de Software en<a href="https://puyo.gob.ec/" target="_blank"><b> G
 **🔱 Tengo experiencia en:**
 
 <div style="display: flex;">
-<a href="https://www.linux.org" target="_blank"><img height="75" src="https://angelloor.dev/assets/icons/tech/linux.svg"></a>  
-<a href="https://angular.io" target="_blank"><img height="75" src="https://angelloor.dev/assets/icons/tech/angular.svg"></a>  
-<a href="https://es.reactjs.org" target="_blank"><img height="75" src="https://angelloor.dev/assets/icons/tech/react.svg"></a>  
-<a href="https://www.mongodb.com/es" target="_blank"><img height="75" src="https://angelloor.dev/assets/icons/tech/mongo.svg"></a>  
-<a href="https://nodejs.org/es" target="_blank"><img height="75" src="https://angelloor.dev/assets/icons/tech/node.svg"></a>  
-<a href="https://www.typescriptlang.org" target="_blank"><img height="75" src="https://angelloor.dev/assets/icons/tech/typescript.svg"></a>  
-<a href="https://www.postgresql.org" target="_blank"><img height="75" src="https://angelloor.dev/assets/icons/tech/postgresql.svg"></a>  
-<a href="https://www.mysql.com" target="_blank"><img height="75" src="https://angelloor.dev/assets/icons/tech/mysql.svg"></a>  
-<a href="https://git-scm.com" target="_blank"><img height="75" src="https://angelloor.dev/assets/icons/tech/git.svg"></a>  
-<a href="https://developer.mozilla.org/es" target="_blank"><img height="75" src="https://angelloor.dev/assets/icons/tech/js.svg"></a>  
+<a href="https://www.linux.org" target="_blank"><img height="75" src="https://angelloor.dev/assets/icons/tech/_linux.svg"></a>  
+<a href="https://angular.io" target="_blank"><img height="75" src="https://angelloor.dev/assets/icons/tech/_angular.svg"></a>  
+<a href="https://es.reactjs.org" target="_blank"><img height="75" src="https://angelloor.dev/assets/icons/tech/_react.svg"></a>  
+<a href="https://www.mongodb.com/es" target="_blank"><img height="75" src="https://angelloor.dev/assets/icons/_tech/mongo.svg"></a>  
+<a href="https://nodejs.org/es" target="_blank"><img height="75" src="https://angelloor.dev/assets/icons/tech/_node.svg"></a>  
+<a href="https://www.typescriptlang.org" target="_blank"><img height="75" src="https://angelloor.dev/assets/icons/tech/_typescript.svg"></a>  
+<a href="https://www.postgresql.org" target="_blank"><img height="75" src="https://angelloor.dev/assets/icons/tech/_postgresql.svg"></a>  
+<a href="https://www.mysql.com" target="_blank"><img height="75" src="https://angelloor.dev/assets/icons/tech/_mysql.svg"></a>  
+<a href="https://git-scm.com" target="_blank"><img height="75" src="https://angelloor.dev/assets/icons/tech/_git.svg"></a>  
+<a href="https://developer.mozilla.org/es" target="_blank"><img height="75" src="https://angelloor.dev/assets/icons/_tech/js.svg"></a>  
 </div>
 
 **🔱 Próximos stacks tecnologícos:**
