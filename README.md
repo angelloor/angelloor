@@ -2,7 +2,7 @@
 
 <img src="https://github.com/angelloor/dev-angelloor/blob/main/src/assets/img/portada.jpg" alt="Portada!" width="100%"/>
 
-<p align="center">
+<p align="center" style="text-align: center;">
 Desarrollador Backend con más de 3 años de experiencia profesional con tecnologías como NodeJS, Express, TypeScript, PostgreSQL, MongoDB, Heroku, Linux, entre otras tecnologías, analizando lógicas de negocios de aplicaciones con escala nacional e internacional.
 
 Considero que soy un profesional proactivo, analítico y muy perseverante, siempre estaré dispuesto a resolver problemas complejos con soluciones escalables de manera eficiente.
