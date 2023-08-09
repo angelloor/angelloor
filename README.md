@@ -14,7 +14,7 @@ Ingeniero en Software con más de 3 años de experiencia profesional, actualment
 **💼 Actualmente trabajo como:**
 
 Desarrollador de Software en<a href="https://puyo.gob.ec/" target="_blank"><b> GADMCP</b></a>
-
+visitors
 **🔱 Actualmente trabajo con:**
 
 <div style="display: flex;">
@@ -55,8 +55,6 @@ Desarrollador de Software en<a href="https://puyo.gob.ec/" target="_blank"><b> G
 <a href="https://instagram.com/angelloor.dev" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg"></a>
 
 <div align="center">
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=angelloor.visitor-badge)
 
 </div>
 
