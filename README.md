@@ -13,7 +13,7 @@ Ingeniero en Software con más de 3 años de experiencia profesional, actualment
 
 **💼 Actualmente trabajo como:**
 
-Desarrollador de Software en<a href="https://puyo.gob.ec/" target="_blank"><b> GADMCP</b></a>
+Backend Engineer en<a href="https://puyo.gob.ec/](https://www.linkedin.com/company/picnicolombia" target="_blank"><b> PICNIC FOOD</b></a>
 visitors
 **🔱 Actualmente trabajo con:**
 
