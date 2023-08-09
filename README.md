@@ -14,7 +14,6 @@ Ingeniero en Software con más de 3 años de experiencia profesional, actualment
 **💼 Actualmente trabajo como:**
 
 Backend Engineer en<a href="https://puyo.gob.ec/](https://www.linkedin.com/company/picnicolombia" target="_blank"><b> PICNIC FOOD</b></a>
-visitors
 **🔱 Actualmente trabajo con:**
 
 <div style="display: flex;">
