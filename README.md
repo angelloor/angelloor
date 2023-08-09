@@ -4,7 +4,6 @@
 
 <p align="center">
 Desarrollador Backend con más de 3 años de experiencia profesional con tecnologías como NodeJS, Express, TypeScript, PostgreSQL, MongoDB, Heroku, Linux, entre otras tecnologías, analizando lógicas de negocios de aplicaciones con escala nacional e internacional.
-<br><br>
 
 Considero que soy un profesional proactivo, analítico y muy perseverante, siempre estaré dispuesto a resolver problemas complejos con soluciones escalables de manera eficiente.
 </p>
