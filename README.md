@@ -15,38 +15,57 @@ Backend Engineer with 5+ years of experience architecting and developing scalabl
 
 Backend Engineer in<a href="https://puyo.gob.ec/](https://www.linkedin.com/company/picnicolombia" target="_blank"><b> PICNIC FOOD</b></a>
 
-**🔱 I am currently working with:**
+<div style="font-family: sans-serif; max-width: 600px; margin: auto;">
+  <h2>🛠️ Tecnologías y experiencia</h2>
 
-<div style="display: flex;">
-<a href="https://angular.io" target="_blank"><img height="75" src="https://github.com/angelloor/dev-angelloor/blob/main/src/assets/icons/tech/angular.svg"></a>  
-<a href="https://es.reactjs.org" target="_blank"><img height="75" src="https://github.com/angelloor/dev-angelloor/blob/main/src/assets/icons/tech/react.svg"></a>  
-<a href="https://nodejs.org/es" target="_blank"><img height="75" src="https://github.com/angelloor/dev-angelloor/blob/main/src/assets/icons/tech/node.svg"></a>  
-<a href="https://www.typescriptlang.org" target="_blank"><img height="75" src="https://github.com/angelloor/dev-angelloor/blob/main/src/assets/icons/tech/typescript.svg"></a>  
-<a href="https://www.postgresql.org" target="_blank"><img height="75" src="https://github.com/angelloor/dev-angelloor/blob/main/src/assets/icons/tech/postgresql.svg"></a>  
-</div>
+  <div style="margin-bottom: 10px;">
+    <strong>Node.js + TypeScript</strong>
+    <div style="background: #e0e0e0; border-radius: 4px; height: 10px;">
+      <div style="width: 95%; height: 100%; background: #4caf50; border-radius: 4px;"></div>
+    </div>
+  </div>
 
-**🔱 I have experience in:**
+  <div style="margin-bottom: 10px;">
+    <strong>RESTful API Design</strong>
+    <div style="background: #e0e0e0; border-radius: 4px; height: 10px;">
+      <div style="width: 90%; height: 100%; background: #4caf50; border-radius: 4px;"></div>
+    </div>
+  </div>
 
-<div style="display: flex;">
-<a href="https://www.linux.org" target="_blank"><img height="75" src="https://github.com/angelloor/dev-angelloor/blob/main/src/assets/icons/tech/linux.svg"></a>  
-<a href="https://angular.io" target="_blank"><img height="75" src="https://github.com/angelloor/dev-angelloor/blob/main/src/assets/icons/tech/angular.svg"></a>  
-<a href="https://es.reactjs.org" target="_blank"><img height="75" src="https://github.com/angelloor/dev-angelloor/blob/main/src/assets/icons/tech/react.svg"></a>  
-<a href="https://www.mongodb.com/es" target="_blank"><img height="75" src="https://github.com/angelloor/dev-angelloor/blob/main/src/assets/icons/tech/mongo.svg"></a>  
-<a href="https://nodejs.org/es" target="_blank"><img height="75" src="https://github.com/angelloor/dev-angelloor/blob/main/src/assets/icons/tech/node.svg"></a>  
-<a href="https://www.typescriptlang.org" target="_blank"><img height="75" src="https://github.com/angelloor/dev-angelloor/blob/main/src/assets/icons/tech/typescript.svg"></a>  
-<a href="https://www.postgresql.org" target="_blank"><img height="75" src="https://github.com/angelloor/dev-angelloor/blob/main/src/assets/icons/tech/postgresql.svg"></a>  
-<a href="https://www.mysql.com" target="_blank"><img height="75" src="https://github.com/angelloor/dev-angelloor/blob/main/src/assets/icons/tech/mysql.svg"></a>  
-<a href="https://git-scm.com" target="_blank"><img height="75" src="https://github.com/angelloor/dev-angelloor/blob/main/src/assets/icons/tech/git.svg"></a>  
-<a href="https://developer.mozilla.org/es" target="_blank"><img height="75" src="https://github.com/angelloor/dev-angelloor/blob/main/src/assets/icons/tech/js.svg"></a>  
-<a href="https://www.docker.com" target="_blank"><img height="75" src="https://github.com/angelloor/dev-angelloor/blob/main/src/assets/icons/tech/docker.svg"></a>  
-</div>
+  <div style="margin-bottom: 10px;">
+    <strong>PostgreSQL & MongoDB</strong>
+    <div style="background: #e0e0e0; border-radius: 4px; height: 10px;">
+      <div style="width: 85%; height: 100%; background: #4caf50; border-radius: 4px;"></div>
+    </div>
+  </div>
 
-**📫 Sígueme en:**<br>
+  <div style="margin-bottom: 10px;">
+    <strong>Docker & CI/CD</strong>
+    <div style="background: #e0e0e0; border-radius: 4px; height: 10px;">
+      <div style="width: 80%; height: 100%; background: #4caf50; border-radius: 4px;"></div>
+    </div>
+  </div>
 
-<a href="https://instagram.com/angelloorec" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg"></a>
+  <div style="margin-bottom: 10px;">
+    <strong>Microservices Architecture</strong>
+    <div style="background: #e0e0e0; border-radius: 4px; height: 10px;">
+      <div style="width: 75%; height: 100%; background: #4caf50; border-radius: 4px;"></div>
+    </div>
+  </div>
 
-<div align="center">
+  <div style="margin-bottom: 10px;">
+    <strong>GraphQL / WebSockets / Firebase / Kafka</strong>
+    <div style="background: #e0e0e0; border-radius: 4px; height: 10px;">
+      <div style="width: 65%; height: 100%; background: #2196f3; border-radius: 4px;"></div>
+    </div>
+  </div>
 
+  <div style="margin-bottom: 10px;">
+    <strong>AWS, Linux, GitHub Actions, Email Services</strong>
+    <div style="background: #e0e0e0; border-radius: 4px; height: 10px;">
+      <div style="width: 70%; height: 100%; background: #2196f3; border-radius: 4px;"></div>
+    </div>
+  </div>
 </div>
 
 🧩 [#SNIPPETLIFE](https://instagram.com/angelloorec)
