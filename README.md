@@ -13,10 +13,10 @@ Backend Engineer with 5+ years of experience architecting and developing scalabl
 
 **💼 I currently work as:**
 
-Backend Engineer in<a href="https://puyo.gob.ec/](https://www.linkedin.com/company/picnicolombia" target="_blank"><b> PICNIC FOOD</b></a>
+Backend Engineer in<a href="https://www.linkedin.com/company/meliorar" target="_blank"><b> MELIORAR</b></a>
 
 <div style="font-family: sans-serif; max-width: 600px; margin: auto;">
-  <h2>🛠️ Tecnologías y experiencia</h2>
+  <h2>🛠️ Technologies and expertise</h2>
 
   <div style="margin-bottom: 10px;">
     <strong>Node.js + TypeScript</strong>
@@ -33,7 +33,7 @@ Backend Engineer in<a href="https://puyo.gob.ec/](https://www.linkedin.com/compa
   </div>
 
   <div style="margin-bottom: 10px;">
-    <strong>PostgreSQL & MongoDB</strong>
+    <strong>PostgreSQL, MySQL & MongoDB</strong>
     <div style="background: #e0e0e0; border-radius: 4px; height: 10px;">
       <div style="width: 85%; height: 100%; background: #4caf50; border-radius: 4px;"></div>
     </div>
@@ -68,4 +68,4 @@ Backend Engineer in<a href="https://puyo.gob.ec/](https://www.linkedin.com/compa
   </div>
 </div>
 
-🧩 [#SNIPPETLIFE](https://instagram.com/angelloorec)
+🧩 [#IG](https://instagram.com/angelloorec)
