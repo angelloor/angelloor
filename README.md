@@ -1,6 +1,6 @@
 <h1 align= "center"><b>:earth_asia: ¡Hello World! :earth_asia:</b></h1>
 
-<img src="https://github.com/angelloor/dev-angelloor/blob/main/src/assets/img/cover_en.jpg" alt="Portada!" width="100%"/>
+<img src="https://raw.githubusercontent.com/angelloor/angelloor/refs/heads/main/cover_en.jpg" alt="Portada!" width="100%"/>
 
 <p align="center" style="text-align: center;">
 Backend Engineer with 5+ years of experience architecting and developing scalable, high-performance backend systems. Specialized in Node.js, TypeScript, PostgreSQL, MongoDB, and distributed systems. Strong expertise in designing RESTful APIs, implementing microservices, and deploying reliable backend infrastructures with Docker and cloud services. Passionate about building clean, efficient, and maintainable backend solutions that solve complex real-world problems.
