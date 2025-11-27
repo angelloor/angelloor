@@ -13,7 +13,7 @@ Backend Engineer with 5+ years of experience architecting and developing scalabl
 
 **💼 I currently work as:**
 
-Backend Engineer in<a href="https://www.linkedin.com/company/meliorar" target="_blank"><b> MELIORAR</b></a>
+Backend Engineer in<a href="https://www.linkedin.com/company/lemn-co" target="_blank"><b> LEMN</b></a>
 
 <div style="font-family: sans-serif; max-width: 600px; margin: auto;">
   <h2>🛠️ Technologies and expertise</h2>
