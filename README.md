@@ -6,7 +6,7 @@
 Backend Engineer with 5+ years of experience architecting and developing scalable, high-performance backend systems. Specialized in Node.js, TypeScript, PostgreSQL, MongoDB, and distributed systems. Strong expertise in designing RESTful APIs, implementing microservices, and deploying reliable backend infrastructures with Docker and cloud services. Passionate about building clean, efficient, and maintainable backend solutions that solve complex real-world problems.
 </p>
 <p align="center">
-¡One line more! 👨‍💻
+¡Just one more line! 👨‍💻
 </p>
 
 <div align="center">
