@@ -71,7 +71,7 @@ Backend Engineer in<a href="https://www.linkedin.com/company/lemn-co" target="_b
 🧩 [#IG](https://instagram.com/angelloorec)
 
 <!-- profile:headline:start -->
-### Software Engineer · AI Agent Platforms · Distributed Systems · TypeScript · Cloudflare
+### Building autonomous agent infrastructure at the edge.
 
 🛠️  **Software Engineer** at **Lemn** · 📍 Dubai, AE
 
@@ -137,9 +137,9 @@ Production-grade multi-tenant autonomous coding platform — NestJS + Next.js + 
 <!-- profile:stack:end -->
 
 <!-- profile:social:start -->
-[![GitHub](https://img.shields.io/badge/GitHub-angelloor-181717?logo=github)](https://github.com/angelloor) [![LinkedIn](https://img.shields.io/badge/LinkedIn-angelloor-0A66C2?logo=linkedin)](https://www.linkedin.com/in/angelloor/) [![Instagram](https://img.shields.io/badge/Instagram-angelloorec-E4405F?logo=instagram&logoColor=white)](https://instagram.com/angelloorec)
+[![Email](https://img.shields.io/badge/Email-angelloorec@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:angelloorec@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-angelloor-181717?logo=github)](https://github.com/angelloor) [![LinkedIn](https://img.shields.io/badge/LinkedIn-angelloor-0A66C2?logo=linkedin)](https://www.linkedin.com/in/angelloor/) [![Instagram](https://img.shields.io/badge/Instagram-angelloorec-E4405F?logo=instagram&logoColor=white)](https://instagram.com/angelloorec)
 <!-- profile:social:end -->
 
 <!-- profile:meta:start -->
-_Last updated: 2026-05-19 · Generated from [angelloor/website](https://github.com/angelloor/website) — single source of truth in `packages/shared/src/profile`._
+_Last updated: 2026-05-31 · Generated from [angelloor/website](https://github.com/angelloor/website) — single source of truth in `packages/shared/src/profile`._
 <!-- profile:meta:end -->
