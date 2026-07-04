@@ -71,21 +71,17 @@ Backend Engineer in<a href="https://www.linkedin.com/company/lemn-co" target="_b
 🧩 [#IG](https://instagram.com/angelloorec)
 
 <!-- profile:headline:start -->
-### Backend Engineer | +6 | NodeJS | Express | TypeScript | MongoDB | PostgreSQL | Always ready for new challenges🚀
+### Software Engineer | 6+ | AI Agents | Cloudflare Ecosystem | Node | TypeScript | SQL Databases | Exploring the AI world
 
 🛠️  **Software Engineer** at **Lemn** · 📍 Dubai, AE
 
-🧠 Software Engineer | Backend Specialist | Passionate about solving real problems with technology
+I'm a Software Engineer passionate about solving real problems with technology. I discovered coding when I was 15, and from that moment I knew this was what I would dedicate myself to.
 
-I was 15 years old when I discovered coding, and from that moment on, I knew this was what I would dedicate myself to.
+Throughout my career I've built software for companies and institutions, applying best practices and delivering scalable solutions. Beyond the technical side, there's a personal story behind every line of code: I recently made one of the hardest decisions of my life — leaving everything I knew behind to keep growing professionally. Today I'm in Dubai, learning English, adapting to new challenges, and keeping my passion for technology alive.
 
-Throughout my career, I've worked on software projects for companies and institutions, applying best practices and solving real problems with scalable solutions. But beyond the technical aspects, there's a personal story behind every line of code. I recently made one of the most difficult decisions of my life: leaving everything I knew behind to continue growing professionally. Today I find myself in Dubai, learning English, adapting to new challenges, and keeping my passion for technology alive.
+My current focus is on AI agent platforms built on the Cloudflare ecosystem — Workers, Durable Objects, D1, R2, Queues, and the Agents SDK — with TypeScript and SQL databases, designing autonomous systems that get real work done. Analytical, persevering, and highly adaptable, I'm open to opportunities where I can keep growing and bring real value to the teams I work with.
 
-My current focus is on the backend, working with technologies such as Node.js, Express, TypeScript, PostgreSQL, MongoDB, among others, designing business logic for national and international applications. I consider myself analytical, persevering, and highly adaptable, always seeking to deliver real value to the teams I collaborate with.
-
-I'm open to new professional opportunities that allow me to continue growing, learning, and contributing wherever I am, with the same commitment and energy as always.
-
-📩 If you'd like to contact me: angelloorec@gmail.com / +971 52 254 4683
+If you'd like to contact me: angelloorec@gmail.com / +971 52 254 4683
 <!-- profile:headline:end -->
 
 <!-- profile:featured:start -->
@@ -99,9 +95,9 @@ Cloudflare-first autonomous coding-agent platform — native Cloudflare Agents S
 #### Brainsforce
 *Architect & Backend Engineer @ Lemn*
 
-Production-grade multi-tenant autonomous coding platform — NestJS + Next.js + Temporal monorepo.
+Multi-tenant autonomous coding platform — NestJS + Next.js monorepo.
 
-**Stack:** `NestJS 11` · `Fastify` · `Next.js 15` · `React 19` · `Temporal.io` · `Prisma 6`
+**Stack:** `NestJS 11` · `Fastify` · `Next.js 15` · `React 19` · `Prisma 6` · `PostgreSQL`
 <!-- profile:featured:end -->
 
 <!-- profile:stack:start -->
@@ -111,11 +107,11 @@ Production-grade multi-tenant autonomous coding platform — NestJS + Next.js + 
 
 **Frameworks**
 
-![NestJS](https://img.shields.io/badge/NestJS-61DAFB.svg?style=flat) ![Hono](https://img.shields.io/badge/Hono-61DAFB.svg?style=flat) ![Express](https://img.shields.io/badge/Express-61DAFB.svg?style=flat) ![Next.js](https://img.shields.io/badge/Next.js-61DAFB.svg?style=flat) ![React](https://img.shields.io/badge/React-61DAFB.svg?style=flat) ![Prisma](https://img.shields.io/badge/Prisma-61DAFB.svg?style=flat) ![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-61DAFB.svg?style=flat) ![TypeORM](https://img.shields.io/badge/TypeORM-61DAFB.svg?style=flat) ![Temporal.io](https://img.shields.io/badge/Temporal.io-61DAFB.svg?style=flat) ![Socket.IO](https://img.shields.io/badge/Socket.IO-61DAFB.svg?style=flat) ![Slack Bolt](https://img.shields.io/badge/Slack_Bolt-61DAFB.svg?style=flat) ![BullMQ](https://img.shields.io/badge/BullMQ-61DAFB.svg?style=flat)
+![NestJS](https://img.shields.io/badge/NestJS-61DAFB.svg?style=flat) ![Hono](https://img.shields.io/badge/Hono-61DAFB.svg?style=flat) ![Express](https://img.shields.io/badge/Express-61DAFB.svg?style=flat) ![Next.js](https://img.shields.io/badge/Next.js-61DAFB.svg?style=flat) ![React](https://img.shields.io/badge/React-61DAFB.svg?style=flat) ![Prisma](https://img.shields.io/badge/Prisma-61DAFB.svg?style=flat) ![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-61DAFB.svg?style=flat) ![TypeORM](https://img.shields.io/badge/TypeORM-61DAFB.svg?style=flat) ![Socket.IO](https://img.shields.io/badge/Socket.IO-61DAFB.svg?style=flat) ![Slack Bolt](https://img.shields.io/badge/Slack_Bolt-61DAFB.svg?style=flat) ![BullMQ](https://img.shields.io/badge/BullMQ-61DAFB.svg?style=flat)
 
 **AI / Agents**
 
-![Cloudflare Agents SDK](https://img.shields.io/badge/Cloudflare_Agents_SDK-FF6F00.svg?style=flat) ![Workers AI](https://img.shields.io/badge/Workers_AI-FF6F00.svg?style=flat) ![Mastra](https://img.shields.io/badge/Mastra-FF6F00.svg?style=flat) ![Vercel AI SDK](https://img.shields.io/badge/Vercel_AI_SDK-FF6F00.svg?style=flat) ![Anthropic Claude](https://img.shields.io/badge/Anthropic_Claude-FF6F00.svg?style=flat) ![OpenAI](https://img.shields.io/badge/OpenAI-FF6F00.svg?style=flat) ![Google Gemini](https://img.shields.io/badge/Google_Gemini-FF6F00.svg?style=flat) ![Model Context Protocol](https://img.shields.io/badge/Model_Context_Protocol-FF6F00.svg?style=flat)
+![Cloudflare Agents SDK](https://img.shields.io/badge/Cloudflare_Agents_SDK-FF6F00.svg?style=flat) ![Workers AI](https://img.shields.io/badge/Workers_AI-FF6F00.svg?style=flat) ![Mastra](https://img.shields.io/badge/Mastra-FF6F00.svg?style=flat) ![Anthropic Claude](https://img.shields.io/badge/Anthropic_Claude-FF6F00.svg?style=flat) ![OpenAI](https://img.shields.io/badge/OpenAI-FF6F00.svg?style=flat) ![Model Context Protocol](https://img.shields.io/badge/Model_Context_Protocol-FF6F00.svg?style=flat)
 
 **Cloud**
 
@@ -127,19 +123,19 @@ Production-grade multi-tenant autonomous coding platform — NestJS + Next.js + 
 
 **Auth & Security**
 
-![Better Auth](https://img.shields.io/badge/Better_Auth-9333EA.svg?style=flat) ![Passport + JWT](https://img.shields.io/badge/Passport_%2B_JWT-9333EA.svg?style=flat) ![bcrypt](https://img.shields.io/badge/bcrypt-9333EA.svg?style=flat) ![Argon2](https://img.shields.io/badge/Argon2-9333EA.svg?style=flat) ![Octokit (GitHub App)](https://img.shields.io/badge/Octokit_(GitHub_App)-9333EA.svg?style=flat)
+![Better Auth](https://img.shields.io/badge/Better_Auth-9333EA.svg?style=flat) ![Passport + JWT](https://img.shields.io/badge/Passport_%2B_JWT-9333EA.svg?style=flat) ![bcrypt](https://img.shields.io/badge/bcrypt-9333EA.svg?style=flat) ![Octokit (GitHub App)](https://img.shields.io/badge/Octokit_(GitHub_App)-9333EA.svg?style=flat)
 
 **Observability**
 
-![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-E6522C.svg?style=flat) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C.svg?style=flat) ![Grafana](https://img.shields.io/badge/Grafana-E6522C.svg?style=flat) ![Loki](https://img.shields.io/badge/Loki-E6522C.svg?style=flat) ![Tempo](https://img.shields.io/badge/Tempo-E6522C.svg?style=flat) ![Pino](https://img.shields.io/badge/Pino-E6522C.svg?style=flat)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-E6522C.svg?style=flat) ![Cloudflare Observability](https://img.shields.io/badge/Cloudflare_Observability-E6522C.svg?style=flat) ![Pino](https://img.shields.io/badge/Pino-E6522C.svg?style=flat)
 
 **Testing**
 
-![Vitest](https://img.shields.io/badge/Vitest-C21325.svg?style=flat) ![Jest](https://img.shields.io/badge/Jest-C21325.svg?style=flat) ![Playwright](https://img.shields.io/badge/Playwright-C21325.svg?style=flat) ![Pact](https://img.shields.io/badge/Pact-C21325.svg?style=flat) ![Supertest](https://img.shields.io/badge/Supertest-C21325.svg?style=flat)
+![Vitest](https://img.shields.io/badge/Vitest-C21325.svg?style=flat) ![Jest](https://img.shields.io/badge/Jest-C21325.svg?style=flat) ![Playwright](https://img.shields.io/badge/Playwright-C21325.svg?style=flat) ![Supertest](https://img.shields.io/badge/Supertest-C21325.svg?style=flat)
 
 **Tooling**
 
-![Docker](https://img.shields.io/badge/Docker-4B32C3.svg?style=flat) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-4B32C3.svg?style=flat) ![Wrangler](https://img.shields.io/badge/Wrangler-4B32C3.svg?style=flat) ![pnpm](https://img.shields.io/badge/pnpm-4B32C3.svg?style=flat) ![Turborepo](https://img.shields.io/badge/Turborepo-4B32C3.svg?style=flat) ![Biome](https://img.shields.io/badge/Biome-4B32C3.svg?style=flat) ![Linux](https://img.shields.io/badge/Linux-4B32C3.svg?style=flat) ![Zod](https://img.shields.io/badge/Zod-4B32C3.svg?style=flat) ![Joi](https://img.shields.io/badge/Joi-4B32C3.svg?style=flat) ![AJV + JSON Schema](https://img.shields.io/badge/AJV_%2B_JSON_Schema-4B32C3.svg?style=flat)
+![Docker](https://img.shields.io/badge/Docker-4B32C3.svg?style=flat) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-4B32C3.svg?style=flat) ![Wrangler](https://img.shields.io/badge/Wrangler-4B32C3.svg?style=flat) ![pnpm](https://img.shields.io/badge/pnpm-4B32C3.svg?style=flat) ![Turborepo](https://img.shields.io/badge/Turborepo-4B32C3.svg?style=flat) ![Biome](https://img.shields.io/badge/Biome-4B32C3.svg?style=flat) ![Linux](https://img.shields.io/badge/Linux-4B32C3.svg?style=flat) ![Zod](https://img.shields.io/badge/Zod-4B32C3.svg?style=flat)
 
 **Architecture & Methodology**
 
