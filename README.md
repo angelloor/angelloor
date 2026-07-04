@@ -71,11 +71,21 @@ Backend Engineer in<a href="https://www.linkedin.com/company/lemn-co" target="_b
 🧩 [#IG](https://instagram.com/angelloorec)
 
 <!-- profile:headline:start -->
-### Building autonomous agent infrastructure at the edge.
+### Backend Engineer | +6 | NodeJS | Express | TypeScript | MongoDB | PostgreSQL | Always ready for new challenges🚀
 
 🛠️  **Software Engineer** at **Lemn** · 📍 Dubai, AE
 
-Software Engineer specialized in backend, AI agent platforms, and distributed systems. 5+ years architecting scalable systems with Node.js, TypeScript, PostgreSQL, MongoDB, Cloudflare Workers, Durable Objects, and Temporal. Currently building AI-agent infrastructure at Lemn (Dubai) with the Cloudflare Agents SDK, Mastra, and a multi-provider LLM stack (Anthropic, OpenAI, Google Gemini). Strong focus on hexagonal architecture, durable workflows, spec-driven development, and observability-first backends.
+🧠 Software Engineer | Backend Specialist | Passionate about solving real problems with technology
+
+I was 15 years old when I discovered coding, and from that moment on, I knew this was what I would dedicate myself to.
+
+Throughout my career, I've worked on software projects for companies and institutions, applying best practices and solving real problems with scalable solutions. But beyond the technical aspects, there's a personal story behind every line of code. I recently made one of the most difficult decisions of my life: leaving everything I knew behind to continue growing professionally. Today I find myself in Dubai, learning English, adapting to new challenges, and keeping my passion for technology alive.
+
+My current focus is on the backend, working with technologies such as Node.js, Express, TypeScript, PostgreSQL, MongoDB, among others, designing business logic for national and international applications. I consider myself analytical, persevering, and highly adaptable, always seeking to deliver real value to the teams I collaborate with.
+
+I'm open to new professional opportunities that allow me to continue growing, learning, and contributing wherever I am, with the same commitment and energy as always.
+
+📩 If you'd like to contact me: angelloorec@gmail.com / +971 52 254 4683
 <!-- profile:headline:end -->
 
 <!-- profile:featured:start -->
@@ -141,5 +151,5 @@ Production-grade multi-tenant autonomous coding platform — NestJS + Next.js + 
 <!-- profile:social:end -->
 
 <!-- profile:meta:start -->
-_Last updated: 2026-05-31 · Generated from [angelloor/website](https://github.com/angelloor/website) — single source of truth in `packages/shared/src/profile`._
+_Last updated: 2026-07-04 · Generated from [angelloor/website](https://github.com/angelloor/website) — single source of truth in `packages/shared/src/profile`._
 <!-- profile:meta:end -->
