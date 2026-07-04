@@ -1,4 +1,4 @@
-<img src="https://angelloor.com/cover.jpg" alt="Angel Loor — cover" width="100%"/>
+<img src="https://raw.githubusercontent.com/angelloor/angelloor/main/cover.jpg" alt="Angel Loor — cover" width="100%"/>
 
 <!-- profile:headline:start -->
 ### Software Engineer | 6+ | AI Agents | Cloudflare Ecosystem | Node | TypeScript | SQL Databases | Exploring the AI world
