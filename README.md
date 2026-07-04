@@ -1,74 +1,4 @@
-<h1 align= "center"><b>:earth_asia: ¡Hello World! :earth_asia:</b></h1>
-
-<img src="https://raw.githubusercontent.com/angelloor/angelloor/refs/heads/main/cover_en.jpg" alt="Portada!" width="100%"/>
-
-<p align="center" style="text-align: center;">
-Backend Engineer with 5+ years of experience architecting and developing scalable, high-performance backend systems. Specialized in Node.js, TypeScript, PostgreSQL, MongoDB, and distributed systems. Strong expertise in designing RESTful APIs, implementing microservices, and deploying reliable backend infrastructures with Docker and cloud services. Passionate about building clean, efficient, and maintainable backend solutions that solve complex real-world problems.
-</p>
-<p align="center">
-¡Just one more line! 👨‍💻
-</p>
-
-<div align="center">
-
-**💼 I currently work as:**
-
-Backend Engineer in<a href="https://www.linkedin.com/company/lemn-co" target="_blank"><b> LEMN</b></a>
-
-<div style="font-family: sans-serif; max-width: 600px; margin: auto;">
-  <h2>🛠️ Technologies and expertise</h2>
-
-  <div style="margin-bottom: 10px;">
-    <strong>Node.js + TypeScript</strong>
-    <div style="background: #e0e0e0; border-radius: 4px; height: 10px;">
-      <div style="width: 95%; height: 100%; background: #4caf50; border-radius: 4px;"></div>
-    </div>
-  </div>
-
-  <div style="margin-bottom: 10px;">
-    <strong>RESTful API Design</strong>
-    <div style="background: #e0e0e0; border-radius: 4px; height: 10px;">
-      <div style="width: 90%; height: 100%; background: #4caf50; border-radius: 4px;"></div>
-    </div>
-  </div>
-
-  <div style="margin-bottom: 10px;">
-    <strong>PostgreSQL, MySQL & MongoDB</strong>
-    <div style="background: #e0e0e0; border-radius: 4px; height: 10px;">
-      <div style="width: 85%; height: 100%; background: #4caf50; border-radius: 4px;"></div>
-    </div>
-  </div>
-
-  <div style="margin-bottom: 10px;">
-    <strong>Docker & CI/CD</strong>
-    <div style="background: #e0e0e0; border-radius: 4px; height: 10px;">
-      <div style="width: 80%; height: 100%; background: #4caf50; border-radius: 4px;"></div>
-    </div>
-  </div>
-
-  <div style="margin-bottom: 10px;">
-    <strong>Microservices Architecture</strong>
-    <div style="background: #e0e0e0; border-radius: 4px; height: 10px;">
-      <div style="width: 75%; height: 100%; background: #4caf50; border-radius: 4px;"></div>
-    </div>
-  </div>
-
-  <div style="margin-bottom: 10px;">
-    <strong>GraphQL / WebSockets / Firebase / Kafka</strong>
-    <div style="background: #e0e0e0; border-radius: 4px; height: 10px;">
-      <div style="width: 65%; height: 100%; background: #2196f3; border-radius: 4px;"></div>
-    </div>
-  </div>
-
-  <div style="margin-bottom: 10px;">
-    <strong>AWS, Linux, GitHub Actions, Email Services</strong>
-    <div style="background: #e0e0e0; border-radius: 4px; height: 10px;">
-      <div style="width: 70%; height: 100%; background: #2196f3; border-radius: 4px;"></div>
-    </div>
-  </div>
-</div>
-
-🧩 [#IG](https://instagram.com/angelloorec)
+<img src="https://angelloor.com/cover.jpg" alt="Angel Loor — cover" width="100%"/>
 
 <!-- profile:headline:start -->
 ### Software Engineer | 6+ | AI Agents | Cloudflare Ecosystem | Node | TypeScript | SQL Databases | Exploring the AI world
@@ -147,5 +77,5 @@ Multi-tenant autonomous coding platform — NestJS + Next.js monorepo.
 <!-- profile:social:end -->
 
 <!-- profile:meta:start -->
-_Last updated: 2026-07-04 · Generated from [angelloor/website](https://github.com/angelloor/website) — single source of truth in `packages/shared/src/profile`._
+_Last updated: Jul 4, 2026 · Auto-generated_
 <!-- profile:meta:end -->
