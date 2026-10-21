@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/angelloor/angelloor/main/cover.jpg" alt="Angel Loor — cover" width="100%"/>
+<img src="https://angelloor.com/cover-github.png" alt="Angel Loor — cover" width="100%"/>
 
 <!-- profile:headline:start -->
 <div align="center">
