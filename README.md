@@ -28,6 +28,13 @@
 <p align="justify">Multi-tenant autonomous coding platform — NestJS + Next.js monorepo.</p>
 
 **Stack:** `NestJS 11` · `Fastify` · `Next.js 15` · `React 19` · `Prisma 6` · `PostgreSQL`
+
+### AGIForce
+*Solo developer @ Lemn*
+
+<p align="justify">Slack-native AI support agent with persistent context — Mastra + Spec-Driven Development.</p>
+
+**Stack:** `Mastra` · `@mastra/core` · `@mastra/memory` · `OpenAI` · `AI SDK` · `Slack Bolt (Socket Mode)`
 <!-- profile:featured:end -->
 
 <!-- profile:experience:start -->
