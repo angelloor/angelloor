@@ -3,7 +3,7 @@
 <!-- profile:headline:start -->
 ## Angel Loor
 
-**Software Engineer** at **Lemn** · 📍 Dubai, AE
+**Software Engineer** at **Lemn** · 📍 Dubai, UAE
 
 <p align="justify">I'm a Software Engineer passionate about solving real problems with technology. I discovered coding when I was 15, and from that moment I knew this was what I would dedicate myself to.</p>
 
