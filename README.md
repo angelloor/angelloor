@@ -15,13 +15,6 @@
 <!-- profile:featured:start -->
 ## Featured work
 
-### Brainscode
-*Architect & Lead Backend Engineer @ Lemn*
-
-<p align="justify">Cloudflare-first autonomous coding-agent platform — native Cloudflare Agents SDK runtime with portable definitions behind ports/adapters.</p>
-
-**Stack:** `Cloudflare Workers` · `Durable Objects` · `Cloudflare Agents SDK` · `D1` · `R2` · `Queues`
-
 ### Brainsforce
 *Architect & Backend Engineer @ Lemn*
 
@@ -29,12 +22,19 @@
 
 **Stack:** `NestJS 11` · `Fastify` · `Next.js 15` · `React 19` · `Prisma 6` · `PostgreSQL`
 
-### AGIForce
-*Solo developer @ Lemn*
+### Brainscode
+*Architect & Lead Backend Engineer @ Lemn*
 
-<p align="justify">Slack-native AI support agent with persistent context — Mastra + Spec-Driven Development.</p>
+<p align="justify">Cloudflare-first autonomous coding-agent platform — native Cloudflare Agents SDK runtime with portable definitions behind ports/adapters.</p>
 
-**Stack:** `Mastra` · `@mastra/core` · `@mastra/memory` · `OpenAI` · `AI SDK` · `Slack Bolt (Socket Mode)`
+**Stack:** `Cloudflare Workers` · `Durable Objects` · `Cloudflare Agents SDK` · `D1` · `R2` · `Queues`
+
+### Beflick-Experts
+*Full-stack Engineer @ Lemn*
+
+<p align="justify">Expert-marketplace web platform — NestJS + Next.js workspace with rigorous contract testing.</p>
+
+**Stack:** `NestJS 11` · `TypeORM` · `PostgreSQL` · `Socket.IO` · `Passport + JWT` · `bcrypt`
 <!-- profile:featured:end -->
 
 <!-- profile:experience:start -->
